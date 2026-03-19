@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+    <string name="app_title">Unipi Audio Stories</string>
+    <string name="home_title">Αρχική</string>
+
+    <string name="home_subtitle">Ανακάλυψε μαγικούς κόσμους &amp; περιπέτειες</string>
+    <string name="view_progress">Δες την πρόοδό σου</string>
+    <string name="featured_stories">Προτεινόμενες Ιστορίες</string>
+    <string name="explore_stories">Εξερεύνηση</string>
+    <string name="my_statistics">Στατιστικά</string>
+
+    <string name="back">Πίσω</string>
+    <string name="listen_now">Άκου Τώρα</string>
+    <string name="min_suffix">λεπ.</string>
+    <string name="loading">Φόρτωση ιστοριών...</string>
+
+    <string name="stats_subtitle">Το ταξίδι ακρόασης σου</string>
+    <string name="stat_started">Ξεκίνησαν</string>
+    <string name="stat_completed">Ολοκληρώθηκαν</string>
+    <string name="stat_time">Χρόνος</string>
+    <string name="stat_favorites">Αγαπημένα</string>
+    <string name="recent_activity">Πρόσφατη Δραστηριότητα</string>
+    <string name="my_favorites">Αγαπημένες Ιστορίες</string>
+    <string name="no_favorites">Κανένα αγαπημένο ακόμα!</string>
+    <string name="start_listening_hint">Άκουσε μια ιστορία για να δεις ιστορικό!</string>
+
+    <string name="now_playing">Παίζει Τώρα</string>
+    <string name="story_text">Κείμενο Ιστορίας</string>
+    <string name="creating_audio">Δημιουργία ήχου...</string>
+    <string name="story_completed">Η ιστορία ολοκληρώθηκε!</string>
+
+    <string name="voice_init">Αρχικοποίηση...</string>
+    <string name="voice_listening">Ακούω εντολές...</string>
+    <string name="voice_speaking">Μιλάω...</string>
+    <string name="voice_processing">Επεξεργασία...</string>
+    <string name="voice_error">Δεν το έπιασα.</string>
+    <string name="voice_retry_btn">Πάτα για Επανάληψη</string>
+    <string name="voice_welcome">Πού θέλετε να πάτε; Στατιστικά ή Αρχική;</string>
+    <string name="voice_nav_stats">Μετάβαση στα στατιστικά.</string>
+    <string name="voice_story_list">Ορίστε οι ιστορίες.</string>
+    <string name="voice_say_num">Πες %1$d για %2$s.</string>
+    <string name="voice_not_found">Δεν βρέθηκε. Πες έναν αριθμό.</string>
+    <string name="voice_opening">Ανοίγω %1$s</string>
+</resources>

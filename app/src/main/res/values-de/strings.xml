@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+    <string name="app_title">Unipi Audio Stories</string>
+    <string name="home_title">Startseite</string>
+
+    <string name="home_subtitle">Entdecke magische Welten &amp; Abenteuer</string>
+    <string name="view_progress">Fortschritt anzeigen</string>
+    <string name="featured_stories">Empfohlene Geschichten</string>
+    <string name="explore_stories">Entdecken</string>
+    <string name="my_statistics">Statistiken</string>
+
+    <string name="back">Zurück</string>
+    <string name="listen_now">Jetzt anhören</string>
+    <string name="min_suffix">Min.</string>
+    <string name="loading">Laden...</string>
+
+    <string name="stats_subtitle">Deine Hörreise</string>
+    <string name="stat_started">Begonnen</string>
+    <string name="stat_completed">Abgeschlossen</string>
+    <string name="stat_time">Zeit</string>
+    <string name="stat_favorites">Favoriten</string>
+    <string name="recent_activity">Letzte Aktivität</string>
+    <string name="my_favorites">Lieblingsgeschichten</string>
+    <string name="no_favorites">Noch keine Favoriten!</string>
+    <string name="start_listening_hint">Hören Sie eine Geschichte!</string>
+
+    <string name="now_playing">Läuft jetzt</string>
+    <string name="story_text">Geschichtstext</string>
+    <string name="creating_audio">Audio erstellen...</string>
+    <string name="story_completed">Geschichte abgeschlossen!</string>
+
+    <string name="voice_init">Initialisierung...</string>
+    <string name="voice_listening">Höre auf Befehle...</string>
+    <string name="voice_speaking">Sprechen...</string>
+    <string name="voice_processing">Verarbeitung...</string>
+    <string name="voice_error">Nicht verstanden.</string>
+    <string name="voice_retry_btn">Tippen zum Wiederholen</string>
+    <string name="voice_welcome">Wohin möchtest du gehen? Statistik oder Startseite?</string>
+    <string name="voice_nav_stats">Gehe zu Statistiken.</string>
+    <string name="voice_story_list">Hier sind die Geschichten.</string>
+    <string name="voice_say_num">Sag %1$d für %2$s.</string>
+    <string name="voice_not_found">Nicht gefunden. Sag eine Zahl.</string>
+    <string name="voice_opening">Öffne %1$s</string>
+</resources>

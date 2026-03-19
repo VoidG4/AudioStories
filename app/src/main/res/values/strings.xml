@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+    <string name="app_title">Unipi Audio Stories</string>
+    <string name="home_title">Home</string>
+
+    <string name="home_subtitle">Discover magical worlds &amp; adventures</string>
+    <string name="view_progress">View your progress</string>
+    <string name="featured_stories">Featured Stories</string>
+    <string name="explore_stories">Explore Stories</string>
+    <string name="my_statistics">My Statistics</string>
+
+    <string name="back">Back</string>
+    <string name="listen_now">Listen Now</string>
+    <string name="min_suffix">min</string>
+    <string name="loading">Loading magical stories...</string>
+
+    <string name="stats_subtitle">Track your listening journey</string>
+    <string name="stat_started">Stories Started</string>
+    <string name="stat_completed">Completed</string>
+    <string name="stat_time">Est. Time</string>
+    <string name="stat_favorites">Favorites</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="my_favorites">My Favorite Stories</string>
+    <string name="no_favorites">No favorites yet!</string>
+    <string name="start_listening_hint">Start listening to see history!</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="story_text">Story Text</string>
+    <string name="creating_audio">Creating audio...</string>
+    <string name="story_completed">Story Completed!</string>
+
+    <string name="voice_init">Initializing...</string>
+    <string name="voice_listening">Listening for commands...</string>
+    <string name="voice_speaking">Speaking...</string>
+    <string name="voice_processing">Processing...</string>
+    <string name="voice_error">Didn\'t catch that.</string>
+    <string name="voice_retry_btn">Tap to Retry</string>
+    <string name="voice_welcome">Where do you want to go? Statistics or Home?</string>
+    <string name="voice_nav_stats">Navigating to statistics.</string>
+    <string name="voice_story_list">Here are the stories.</string>
+    <string name="voice_say_num">Say %1$d for %2$s.</string> <string name="voice_not_found">Story not found. Say a number.</string>
+    <string name="voice_opening">Opening %1$s</string>
+</resources>
