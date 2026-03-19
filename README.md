@@ -47,7 +47,7 @@ To run this project locally, you will need Android Studio (Giraffe or newer reco
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YourUsername/AudioStories.git](https://github.com/YourUsername/AudioStories.git)
+git clone [https://github.com/VoidG4/AudioStories.git](https://github.com/VoidG4/AudioStories.git)
 ```
 
 ### 2. Firebase Setup
