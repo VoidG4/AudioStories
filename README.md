@@ -23,9 +23,20 @@
 
 ## 📸 Screenshots
 
-| Home Screen | Story Player & Highlighting | Voice Assistant | Statistics Dashboard |
-| :---: | :---: | :---: | :---: |
-| ![Home Screen](screenshots/home.jpg) | ![Story Player](screenshots/story.jpg) | ![Voice Assistant](screenshots/voice.jpg) | ![Statistics](screenshots/statistics.jpg) |
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th>Home Screen</th>
+    <th>Story & Highlighting</th>
+    <th>Voice Assistant</th>
+    <th>Statistics</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.png" width="200" alt="Home Screen"></td>
+    <td><img src="screenshots/story.png" width="200" alt="Story Screen"></td>
+    <td><img src="screenshots/voice.png" width="200" alt="Voice Assistant"></td>
+    <td><img src="screenshots/statistics.png" width="200" alt="Statistics Screen"></td>
+  </tr>
+</table>
 
 ---
 
