@@ -1,4 +1,3 @@
-# Audio Stories
 # 🎧 AudioStories
 
 **AudioStories** is an interactive, multimodal Android application built entirely with **Jetpack Compose** and **Kotlin**. It is designed to bring children's stories to life by combining rich UI layouts, real-time Text-to-Speech (TTS) narration, synchronized text highlighting, and hands-free voice navigation.
