@@ -25,7 +25,7 @@
 
 | Home Screen | Story Player & Highlighting | Voice Assistant | Statistics Dashboard |
 | :---: | :---: | :---: | :---: |
-| *[Insert Screenshot Here]* | *[Insert Screenshot Here]* | *[Insert Screenshot Here]* | *[Insert Screenshot Here]* |
+| ![Home Screen](screenshots/home.jpg) | ![Story Player](screenshots/story.jpg) | ![Voice Assistant](screenshots/voice.jpg) | ![Statistics](screenshots/statistics.jpg) |
 
 ---
 
