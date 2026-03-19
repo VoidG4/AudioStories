@@ -31,10 +31,10 @@
     <th>Statistics</th>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="200" alt="Home Screen"></td>
-    <td><img src="screenshots/story.png" width="200" alt="Story Screen"></td>
-    <td><img src="screenshots/voice.png" width="200" alt="Voice Assistant"></td>
-    <td><img src="screenshots/statistics.png" width="200" alt="Statistics Screen"></td>
+    <td><img src="screenshots/home.jpg" width="200" alt="Home Screen"></td>
+    <td><img src="screenshots/story.jpg" width="200" alt="Story Screen"></td>
+    <td><img src="screenshots/voice.jpg" width="200" alt="Voice Assistant"></td>
+    <td><img src="screenshots/statistics.jpg" width="200" alt="Statistics Screen"></td>
   </tr>
 </table>
 
